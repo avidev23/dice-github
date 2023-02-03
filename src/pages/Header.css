@@ -1,0 +1,13 @@
+.header{
+    width: auto;
+    border: 1px solid black;
+    height: 70px;
+    background-color: beige;
+    box-shadow: 10px ;
+    
+}
+
+.title{
+    margin-top: 25px;
+    font-size: larger;
+}
